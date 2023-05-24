@@ -24,7 +24,7 @@ const routes: Routes = [
         component: NewPageComponent
       },
       {
-        path: ':list',
+        path: 'list',
         component: ListPageComponent
       },
       {
